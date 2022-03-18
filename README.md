@@ -4,7 +4,7 @@
 
 </h1>
 
-<p align="center">Logo NetfliX</p>
+<p align="center">Logo NETFLIX</p>
 
 <p align="center"><i>"O segredo do sucesso é a constância do propósito."</i> </p>
 
